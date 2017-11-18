@@ -25,7 +25,7 @@ public class Tutorial {
     private final JButton rewindButton;
 
     private final JButton skipButton;
-    private static final String NATIVE_LIBRARY_SEARCH_PATH = "C:\\Program Files\\VideoLAN\\VLC";
+    private static final String NATIVE_LIBRARY_SEARCH_PATH = "C:\\Program Files\\VideoLAN\\VLC"; //MUSZISZ ZANSTALOWAĆ VLC I DODAĆ TU SCIEZKE DO NIEGO
     public static void main(final String[] args) {
         NativeLibrary.addSearchPath(RuntimeUtil.getLibVlcLibraryName(), NATIVE_LIBRARY_SEARCH_PATH);
         new NativeDiscovery().discover();
