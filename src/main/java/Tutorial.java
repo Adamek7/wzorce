@@ -31,7 +31,6 @@ public class Tutorial {
         new NativeDiscovery().discover();
         SwingUtilities.invokeLater(new Runnable() {
             @Override
-            //ewgnjeqwigowrbierhg!!!!!!!!!!!!!!
             public void run() {
                // new Tutorial(args);
                     new Tutorial("https://www.youtube.com/watch?v=huibeWit4gA");
