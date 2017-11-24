@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Pulpit-VLCJ.iml" filepath="$PROJECT_DIR$/.idea/modules/Pulpit-VLCJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Pulpit-VLCJ_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Pulpit-VLCJ_main.iml" group="VLCJ" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Pulpit-VLCJ_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Pulpit-VLCJ_test.iml" group="VLCJ" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/VLCJ.iml" filepath="$PROJECT_DIR$/.idea/modules/VLCJ.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/VLCJ_main.iml" filepath="$PROJECT_DIR$/.idea/modules/VLCJ_main.iml" group="VLCJ" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/VLCJ_test.iml" filepath="$PROJECT_DIR$/.idea/modules/VLCJ_test.iml" group="VLCJ" />
